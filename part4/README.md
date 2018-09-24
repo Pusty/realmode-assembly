@@ -237,14 +237,14 @@ If I wrote something wrong just point it out and I will correct it also feedback
 
 If I wrote something wrong just point it out and I will correct it also feedback is appreciated.
 
-### [Next Part](https://github.com/Pusty/realmode-assembly/part5)
+### [Next Part](https://github.com/Pusty/realmode-assembly/tree/master/part5)
 
-### [Previous Part](https://github.com/Pusty/realmode-assembly/part3)
+### [Previous Part](https://github.com/Pusty/realmode-assembly/tree/master/part3)
 
 ----------
 
 ## Link to source files:
-* https://github.com/Pusty/realmode-assembly/part4
+* https://github.com/Pusty/realmode-assembly/tree/master/part4
 
 
 ## Sources and References

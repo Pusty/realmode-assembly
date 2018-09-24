@@ -193,14 +193,14 @@ The next and last part will finish this project and be about handling hardware i
 If I wrote something wrong just point it out and I will correct it also feedback is appreciated.
 
 
-### [Next Part](https://github.com/Pusty/realmode-assembly/part7)
+### [Next Part](https://github.com/Pusty/realmode-assembly/tree/master/part7)
 
-### [Previous Part](https://github.com/Pusty/realmode-assembly/part5)
+### [Previous Part](https://github.com/Pusty/realmode-assembly/tree/master/part5)
 
 ----------
 
 ## Link to source files:
-* https://github.com/Pusty/realmode-assembly/part6
+* https://github.com/Pusty/realmode-assembly/tree/master/part6
 
 
 ## Sources and References

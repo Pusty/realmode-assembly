@@ -96,7 +96,7 @@ This concludes the theory aspect, thank you for reading through this.
 I hope this is all the information you need to proceed.
 If I wrote something wrong just point it out and I will correct it also feedback is appreciated
 
-### [Next Part](https://github.com/Pusty/realmode-assembly/part2)
+### [Next Part](https://github.com/Pusty/realmode-assembly/tree/master/part2)
 
 ----------
 ## Sources and References

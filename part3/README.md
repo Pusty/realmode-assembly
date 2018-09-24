@@ -276,13 +276,13 @@ If someone is willing to share a photo of their OS booted on a real computer I w
 The next part will be about writing a small Console OS which means we will deal with keyboard input and converting values.
 If I wrote something wrong just point it out and I will correct it also feedback is appreciated.
 
-### [Next Part](https://github.com/Pusty/realmode-assembly/part4)
+### [Next Part](https://github.com/Pusty/realmode-assembly/tree/master/part4)
 
-### [Previous Part](https://github.com/Pusty/realmode-assembly/part2)
+### [Previous Part](https://github.com/Pusty/realmode-assembly/tree/master/part2)
 
 ----------
 ## Link to source files:
-* https://github.com/Pusty/realmode-assembly/part3
+* https://github.com/Pusty/realmode-assembly/tree/master/part3
 
 
 ## Sources and References

@@ -293,13 +293,13 @@ I hope I was able to show how to use the draw pixel interrupt and how to actuall
 The next and last few parts will consist of using the knowledge from the previous parts (and additional information) to write a small game (I've not yet decided what kind of game to write ,I tend to some jump&run mario thing, but I'm open for suggestions).
 If I wrote something wrong just point it out and I will correct it also feedback is appreciated.
 
-### [Next Part](https://github.com/Pusty/realmode-assembly/part6)
-### [Previous Part](https://github.com/Pusty/realmode-assembly/part4)
+### [Next Part](https://github.com/Pusty/realmode-assembly/tree/master/part6)
+### [Previous Part](https://github.com/Pusty/realmode-assembly/tree/master/part4)
 
 ----------
 
 ## Link to source files:
-* https://github.com/Pusty/realmode-assembly/part5
+* https://github.com/Pusty/realmode-assembly/tree/master/part5
 
 ## Sources and References
 * https://en.wikipedia.org/wiki/Video_BIOS

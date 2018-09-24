@@ -179,12 +179,12 @@ Here I loaded up the wrong address for the base of the map, resulting in renderi
 
 When I optimized the world rendering I at some point choose a too small radius resulting in this
 
-### [Previous Part](https://github.com/Pusty/realmode-assembly/part6)
+### [Previous Part](https://github.com/Pusty/realmode-assembly/tree/master/part6)
 
 ----------
 
 ## Link to source files:
-* https://github.com/Pusty/realmode-assembly/part7
+* https://github.com/Pusty/realmode-assembly/tree/master/part7
 
 
 ## Sources and References

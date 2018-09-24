@@ -227,13 +227,13 @@ qemu-system-i386 result.bin
 ## Conclusion:
 We now have a working bootloader and kernel. This concludes the HelloWorld kernel and bootloader part. The next part will be about how to build and run it in more detail also it will contain information on how to load the self written kernel binary to an USB-Stick and actually test it on your computer. I hope this part contained information useful to you. If I wrote something wrong just point it out and I will correct it. Feedback is appreciated.
 
-### [Next Part](https://github.com/Pusty/realmode-assembly/part3)
-### [Previous Part](https://github.com/Pusty/realmode-assembly/part1)
+### [Next Part](https://github.com/Pusty/realmode-assembly/tree/master/part3)
+### [Previous Part](https://github.com/Pusty/realmode-assembly/tree/master/part1)
 
 ----------
 
 ## Link to source files:
-* https://github.com/Pusty/realmode-assembly/part2
+* https://github.com/Pusty/realmode-assembly/tree/master/part2
 
 ## Other Hello World bootloaders (both don't load a kernel but are interesting anyways):
 * http://viralpatel.net/taj/tutorial/hello_world_bootloader.php
