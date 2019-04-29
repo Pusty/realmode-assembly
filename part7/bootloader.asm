@@ -25,6 +25,17 @@ FileSystem		db "FAT12   "	; File system type: don't change!
 start: 
 ; ------------------------------------------------------------------
 
+;Initialize Registers
+cli
+xor ax, ax
+mov ds, ax
+mov ss, ax
+mov es, ax
+mov fs, ax
+mov gs, ax
+mov sp, 0x6ef0 ; setup the stack like qemu does
+sti
+
                       ;Reset disk system
 mov ah, 0
 int 0x13              ; 0x13 ah=0 dl = drive number

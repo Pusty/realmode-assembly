@@ -121,6 +121,18 @@ Ok now our bootloader is finally done but as we don't have a kernel yet we can't
 Complete MBR Code:
 ```asm
 org 0x7C00
+
+;Initialize Registers
+cli
+xor ax, ax
+mov ds, ax
+mov ss, ax
+mov es, ax
+mov fs, ax
+mov gs, ax
+mov sp, 0x6ef0 ; setup the stack like qemu does
+sti
+
 ;Reset disk system
 mov ah, 0
 int 0x13 ; 0x13 ah=0 dl = drive number
