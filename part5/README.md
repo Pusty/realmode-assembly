@@ -191,7 +191,7 @@ drawCircle:
 
 By default the color indexes of interrupt 0x10, 0xC refer to the VGA 256-color palette and although those are changeable through interrupts we can see already see that 256 colors are quite a bit (enough to make the color black appear 10 times in it).
 
-![](doc/part5_img4.PNG)
+![](doc/part5_img4.png)
 
 
 Let's try to encode a small image into those indexes and display it!
