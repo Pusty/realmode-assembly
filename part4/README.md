@@ -59,7 +59,7 @@ Interrupt 0x16 0 will make the system halt and wait until a key is pressed, it t
 Sadly 0x16,0 behaves inconsistent and doesn't always return the wanted result. This can be fixed by checking if a key is pressed at the moment with int 0x16,1 which returns the last pressed scancode into AH and AL (same as 0x16,0) and sets the zero flag depending on if a key on the keyboard is currently pressed:
 
 ```plain
-|----int----|--ah--|----Zero flag---|----Returned al----|---Returned ah---|--------------Description--------|
+|----int----|--ah--|----Zero flag---|----Returned ah----|---Returned al---|--------------Description--------|
 |  int 0x16 | 0x0  |    Unchanged   |     Scan code     |    ASCII Code   | Halts until key is pressed      |
 |  int 0x16 | 0x1  | No Key pressed |     Scan code     |    ASCII Code   | Read Keyboard status            |
 |-----------|------|----------------|-------------------|-----------------|---------------------------------|
